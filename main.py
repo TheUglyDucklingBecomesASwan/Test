@@ -5,6 +5,9 @@ def print_hi(name):
 def print1():
     print("Наконец-то")
 
+def print2()
+    print("И Вам не хворать")
+
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
