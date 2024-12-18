@@ -5,7 +5,7 @@ def print_hi(name):
 def print1():
     print("Наконец-то")
 
-def print2()
+def print2():
     print("И Вам не хворать")
 
 
